@@ -18,6 +18,8 @@ Computer Science and Engineering student passionate about technology, design, an
 - Python
 ### Database:
 - MySql
+## Additional Skills:
+- C, C++, Java
 
 ## Additional Information:
 
