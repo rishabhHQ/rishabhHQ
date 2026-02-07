@@ -22,6 +22,8 @@ Computer Science and Engineering student passionate about technology, design, an
 - C, C++, Java
 
 ## Additional Information:
+**Issues:**
+- There is an open issue kindly go through it and fix if possible. [Click Here!](https://github.com/rishabhHQ/javaCodes4Sem)  
 
 **My Portfolio Website:**  
 - [Click Me to explore my portfolio!](https://rishabh-2d-portfolio.netlify.app/)
