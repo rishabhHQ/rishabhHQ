@@ -18,13 +18,14 @@ Computer Science and Engineering student passionate about technology, design, an
 ![Static Badge](https://img.shields.io/badge/Flask-181A18?style=for-the-badge&logo=Flask)
 ![Static Badge](https://img.shields.io/badge/Express.Js(Beginner)-181A18?style=for-the-badge&logo=Express) 
 ### Backend:
-- Node Js. (Beginner)
-- Python
+![Static Badge](https://img.shields.io/badge/Node.Js(Beginner)-181A18?style=for-the-badge&logo=Node.Js)
+![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)
 ### Database:
-- MySql
+![Static Badge](https://img.shields.io/badge/MySQL-181A18?style=for-the-badge&logo=MySQL)
 ## Additional Skills:
-- C, C++, Java
-
+![Static Badge](https://img.shields.io/badge/C-181A18?style=for-the-badge&logo=C)
+![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPP)
+![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=JAVA)
 ## Additional Information:
 **Issues:**
 - There is an open issue kindly go through it and fix if possible. [Click Here!](https://github.com/rishabhHQ/javaCodes4Sem)  
