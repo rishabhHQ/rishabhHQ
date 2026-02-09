@@ -3,7 +3,7 @@ Hello!🥳
 Myself Rishabh Paudel, a Front-End Web Developer,  
 Computer Science and Engineering student passionate about technology, design, and creating impactful user experiences. I enjoy turning ideas into functional projects, from building responsive websites to designing interactive pages that surprise and engage users. Alongside my technical skills in web development and programming, I’m also constantly learning, whether through hackathons, certifications, or self-driven projects, and I love collaborating with others to bring innovative ideas to life. Let’s connect and grow together in the tech space! <br>
 
-<p align="end"> 
+<p align="left"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhHQ&theme=date_night"/>
 </p>
 
@@ -14,9 +14,9 @@ Computer Science and Engineering student passionate about technology, design, an
 ![Static Badge](https://img.shields.io/badge/JS-181A18?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)
 ### Frameworks:
-- Bootstrap
-- Flask (Basics)
-- Express Js (Beginner)
+![Static Badge](https://img.shields.io/badge/Bootstrap-181A18?style=for-the-badge&logo=Bootstrap)
+![Static Badge](https://img.shields.io/badge/Flask-181A18?style=for-the-badge&logo=Flask)
+![Static Badge](https://img.shields.io/badge/Express.Js(Beginner)-181A18?style=for-the-badge&logo=Express) 
 ### Backend:
 - Node Js. (Beginner)
 - Python
