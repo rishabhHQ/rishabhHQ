@@ -5,10 +5,10 @@ Computer Science and Engineering student passionate about technology, design, an
 
 ## My Skills:
 ### Frontend:
-- HTML
-- CSS
-- JavaScript
-- React
+![Static Badge](https://img.shields.io/badge/HTML-181A18?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/CSS-181A18?style=for-the-badge&logo=CSS)
+![Static Badge](https://img.shields.io/badge/JS-181A18?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)
 ### Frameworks:
 - Bootstrap
 - Flask (Basics)
