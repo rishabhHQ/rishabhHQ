@@ -4,8 +4,8 @@ Myself Rishabh Paudel, a Front-End Web Developer,
 Computer Science and Engineering student passionate about technology, design, and creating impactful user experiences. I enjoy turning ideas into functional projects, from building responsive websites to designing interactive pages that surprise and engage users. Alongside my technical skills in web development and programming, I’m also constantly learning, whether through hackathons, certifications, or self-driven projects, and I love collaborating with others to bring innovative ideas to life. Let’s connect and grow together in the tech space!
 
 <p align="left"> 
-<img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhHQ&theme=date_night"/>
-<img width="650" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhHQ&theme=date_night">
+<img width="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhHQ&theme=date_night"/>
+<img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhHQ&theme=date_night">
 </p>
 
 ## My Skills:
