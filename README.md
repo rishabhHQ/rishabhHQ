@@ -37,5 +37,5 @@ Computer Science and Engineering student passionate about technology, design, an
 - [Click here to apply to my Company](https://apply-to-rishabh-lol.netlify.app/) (Unpaid)
   - Currently hiring for: Backend Developer, Database Manager, UI/UX
 
-**Previous Usernames**
+**Former Usernames**
 - Canged on 28/01/2026, was [rishabh-24bcs10110](https://github.com/rishabhHQ)
