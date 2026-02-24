@@ -14,7 +14,7 @@ Computer Science and Engineering student passionate about technology, design, an
 ![Static Badge](https://img.shields.io/badge/CSS-181A18?style=for-the-badge&logo=CSS)
 ![Static Badge](https://img.shields.io/badge/JS-181A18?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)
-### Frameworks:
+### Frameworks: 
 ![Static Badge](https://img.shields.io/badge/Bootstrap-181A18?style=for-the-badge&logo=Bootstrap)
 ![Static Badge](https://img.shields.io/badge/Flask-181A18?style=for-the-badge&logo=Flask)
 ![Static Badge](https://img.shields.io/badge/Express.Js(Beginner)-181A18?style=for-the-badge&logo=Express) 
