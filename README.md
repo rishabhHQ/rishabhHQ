@@ -35,7 +35,7 @@ Computer Science and Engineering student passionate about technology, design, an
 - [Click Me to explore my portfolio!](https://rishabh-2d-portfolio.netlify.app/)
 
 **Need Feedback:**
-- [On Tis](https://pollin-deb03.web.app/)
+- [On This](https://pollin-deb03.web.app/)
   
 **I'm hiring:** 
 - [Click here to apply to my Company](https://apply-to-rishabh-lol.netlify.app/) (Unpaid)
