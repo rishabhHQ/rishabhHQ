@@ -29,7 +29,7 @@ Computer Science and Engineering student passionate about technology, design, an
 ![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=JAVA)
 ## Additional Information:
 **Issues:**
-- There is no open issue for now.  
+- There is one open issue inside repo [Java Codes](https://github.com/rishabhHQ/javaCodes4Sem) or just [Click Here](https://github.com/rishabhHQ/javaCodes4Sem/issues) to directly visit all the issues inside that repo.  
 
 **My Portfolio Website:**  
 - [Click Me to explore my portfolio!](https://rishabh-2d-portfolio.netlify.app/)
