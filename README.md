@@ -32,6 +32,9 @@ Computer Science and Engineering student passionate about technology, design, an
 **Issues:**
 - No current issues.
 
+**Organization:**
+- https://github.com/VervainLabs
+
 **My Portfolio Website:**  
 - [Click Me to explore my portfolio!](https://rishabh-2d-portfolio.netlify.app/)
 
