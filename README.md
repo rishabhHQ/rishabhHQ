@@ -15,25 +15,24 @@ Alongside web development, I’m constantly learning through:
 </p>
 
 # 💻 Tech Stack
-### Frontend:
 ![Static Badge](https://img.shields.io/badge/HTML-181A18?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS-181A18?style=for-the-badge&logo=CSS)
 ![Static Badge](https://img.shields.io/badge/JS-181A18?style=for-the-badge&logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)
-### Backend:
-![Static Badge](https://img.shields.io/badge/Node.Js(Beginner)-181A18?style=for-the-badge&logo=Node.Js)
-![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)
-### Frameworks: 
+![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)  
+
+![Static Badge](https://img.shields.io/badge/Node.Js-181A18?style=for-the-badge&logo=Node.Js)
+![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)  
+
 ![Static Badge](https://img.shields.io/badge/Bootstrap-181A18?style=for-the-badge&logo=Bootstrap)
 ![Static Badge](https://img.shields.io/badge/Flask-181A18?style=for-the-badge&logo=Flask)
-![Static Badge](https://img.shields.io/badge/Express.Js(Beginner)-181A18?style=for-the-badge&logo=Express) 
-### Database:
+![Static Badge](https://img.shields.io/badge/Express.Js-181A18?style=for-the-badge&logo=Express)  
+
 ![Static Badge](https://img.shields.io/badge/MySQL-181A18?style=for-the-badge&logo=MySQL)
-![Static Badge](https://img.shields.io/badge/MongoDB-181A18?style=for-the-badge&logo=MONGODB)
-## Additional Skills:
+![Static Badge](https://img.shields.io/badge/MongoDB-181A18?style=for-the-badge&logo=MONGODB)  
+
 ![Static Badge](https://img.shields.io/badge/C-181A18?style=for-the-badge&logo=C)
-![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPP)
-![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=JAVA)
+![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=openjdk)  
 
 ## 🌐 Portfolio: 
 Check out my work →  
@@ -69,4 +68,4 @@ Previously known as: `rishabh-24bcs10110`
 
 ## 🤝 Connect With Me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhhq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-paudel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rishabh-paudel/)
