@@ -32,7 +32,9 @@ Alongside web development, I’m constantly learning through:
 
 ![Static Badge](https://img.shields.io/badge/C-181A18?style=for-the-badge&logo=C)
 ![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=openjdk)  
+![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=openjdk)
+![Static Badge](https://img.shields.io/badge/Git-181A18?style=for-the-badge&logo=Git)
+![Static Badge](https://img.shields.io/badge/GitHub-181A18?style=for-the-badge&logo=GitHub)  
 
 ## 🌐 Portfolio: 
 Check out my work →  
