@@ -20,12 +20,12 @@ Alongside web development, I’m constantly learning through:
 ![Static Badge](https://img.shields.io/badge/JS-181A18?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)  
 
-![Static Badge](https://img.shields.io/badge/Node.Js-181A18?style=for-the-badge&logo=Node.Js)
+![Static Badge](https://img.shields.io/badge/Node-181A18?style=for-the-badge&logo=Node.Js)
 ![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)  
 
 ![Static Badge](https://img.shields.io/badge/Bootstrap-181A18?style=for-the-badge&logo=Bootstrap)
 ![Static Badge](https://img.shields.io/badge/Flask-181A18?style=for-the-badge&logo=Flask)
-![Static Badge](https://img.shields.io/badge/Express.Js-181A18?style=for-the-badge&logo=Express)  
+![Static Badge](https://img.shields.io/badge/Express-181A18?style=for-the-badge&logo=Express)  
 
 ![Static Badge](https://img.shields.io/badge/MySQL-181A18?style=for-the-badge&logo=MySQL)
 ![Static Badge](https://img.shields.io/badge/MongoDB-181A18?style=for-the-badge&logo=MONGODB)  
@@ -34,7 +34,9 @@ Alongside web development, I’m constantly learning through:
 ![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/JAVA-181A18?style=for-the-badge&logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/Git-181A18?style=for-the-badge&logo=Git)
-![Static Badge](https://img.shields.io/badge/GitHub-181A18?style=for-the-badge&logo=GitHub)  
+![Static Badge](https://img.shields.io/badge/GitHub-181A18?style=for-the-badge&logo=GitHub)
+![Static Badge](https://img.shields.io/badge/Postman-181A18?style=for-the-badge&logo=postman)
+![Static Badge](https://img.shields.io/badge/AutoCAD-181A18?style=for-the-badge&logo=autocad)  
 
 ## 🌐 Portfolio: 
 Check out my work →  
