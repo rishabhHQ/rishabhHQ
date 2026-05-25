@@ -1,5 +1,5 @@
 # Hey there, I'm Rishabh Paudel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-### Front-End Web Developer | CSE Student | Tech Enthusiast
+### Web Developer | CSE Student | Tech Enthusiast
 I'm a passionate **Computer Science and Engineering student** who loves building modern, responsive, and interactive web experiences.  
 I enjoy transforming ideas into real-world projects — from clean UI designs to fully functional applications that create meaningful user experiences.
 Alongside web development, I’m constantly learning through:
