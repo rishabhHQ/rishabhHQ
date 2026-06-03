@@ -18,7 +18,8 @@ Alongside web development, I’m constantly learning through:
 ![Static Badge](https://img.shields.io/badge/HTML-181A18?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS-181A18?style=for-the-badge&logo=CSS)
 ![Static Badge](https://img.shields.io/badge/JS-181A18?style=for-the-badge&logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)  
+![Static Badge](https://img.shields.io/badge/React-181A18?style=for-the-badge&logo=React)
+![Static Badge](https://img.shields.io/badge/Next-181A18?style=for-the-badge&logo=Next.js)  
 
 ![Static Badge](https://img.shields.io/badge/Node-181A18?style=for-the-badge&logo=Node.Js)
 ![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)  
@@ -36,7 +37,9 @@ Alongside web development, I’m constantly learning through:
 ![Static Badge](https://img.shields.io/badge/Git-181A18?style=for-the-badge&logo=Git)
 ![Static Badge](https://img.shields.io/badge/GitHub-181A18?style=for-the-badge&logo=GitHub)
 ![Static Badge](https://img.shields.io/badge/Postman-181A18?style=for-the-badge&logo=postman)
-![Static Badge](https://img.shields.io/badge/AutoCAD-181A18?style=for-the-badge&logo=autocad)  
+![Static Badge](https://img.shields.io/badge/AutoCAD-181A18?style=for-the-badge&logo=autocad)
+![Static Badge](https://img.shields.io/badge/Vercel-181A18?style=for-the-badge&logo=vercel)
+![Static Badge](https://img.shields.io/badge/Render-181A18?style=for-the-badge&logo=render)  
 
 ## 🌐 Portfolio: 
 Check out my work →  
